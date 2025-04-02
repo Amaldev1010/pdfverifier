@@ -2,9 +2,9 @@
   "name": "aadhaar-verifier-backend",
   "version": "1.0.0",
   "description": "Aadhaar verifier backend for React Native app",
-  "main": "pdfserver.js",
+  "main": "pdfver/server.js",
 "scripts": {
-  "start": "node pdfserver.js"
+  "start": "node pdfver/server.js"
 },
   "dependencies": {
     "express": "^4.18.2",
